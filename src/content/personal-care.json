@@ -6,7 +6,7 @@
       "id": 0,
       "title": "Jabon Glicerina Hombre",
       "paragraph": "Nuestros jabones de glicerina hidratan y cuidan la piel, dejándola suave, fresca y delicadamente perfumada con aromas inspirados en perfumes icónicos.",
-      "productData": { "price": "3.800", "size": "250ml", "url": "/Brisa-de-paz/images/product/personal-care/jabon-glicerina-men.webp" },
+      "productData": { "price": "3.800", "size": "250ml", "url": "/Tesorito-de-Mateo/images/product/personal-care/jabon-glicerina-men.webp" },
       "list": [
         {
           "id": 0,
@@ -34,7 +34,7 @@
       "id": 1,
       "title": "Jabon Glicerina Mujer",
       "paragraph": "Nuestros jabones de glicerina hidratan y cuidan la piel, dejándola suave, fresca y delicadamente perfumada con aromas inspirados en perfumes icónicos.",
-      "productData": { "price": "3.800", "size": "250ml", "url": "/Brisa-de-paz/images/product/personal-care/jabon-glicerina-woman.webp" },
+      "productData": { "price": "3.800", "size": "250ml", "url": "/Tesorito-de-Mateo/images/product/personal-care/jabon-glicerina-woman.webp" },
       "list": [
         {
           "id": 0,
@@ -97,35 +97,35 @@
       "id": 2,
       "title": "Shampoo Argan",
       "paragraph": "El Shampoo Argán nutre y revitaliza el cabello, aportando brillo, suavidad y fuerza. Ideal para cabellos secos o dañados, previene la resequedad y las puntas abiertas, dejándolo sedoso y saludable.",
-      "productData": { "price": "6.000", "size": "500ml", "url": "/Brisa-de-paz/images/product/personal-care/shampoo-acondicionador-essien.webp" },
+      "productData": { "price": "6.000", "size": "500ml", "url": "/Tesorito-de-Mateo/images/product/personal-care/shampoo-acondicionador-essien.webp" },
       "list": []
     },
     {
       "id": 3,
       "title": "Acondicionador Argan",
       "paragraph": "El Acondicionador Argán hidrata y nutre profundamente, dejando el cabello suave, brillante y fortalecido, ideal para cabellos secos o dañados.",
-      "productData": { "price": "6.000", "size": "500ml", "url": "/Brisa-de-paz/images/product/personal-care/shampoo-acondicionador-essien.webp" },
+      "productData": { "price": "6.000", "size": "500ml", "url": "/Tesorito-de-Mateo/images/product/personal-care/shampoo-acondicionador-essien.webp" },
       "list": []
     },
     {
       "id": 4,
       "title": "Mascara de tratamiento cuidado intensivo",
       "paragraph": "La Máscara de Tratamiento con Aceite de Argán hidrata y repara en profundidad, devolviendo brillo, suavidad y vitalidad al cabello seco o dañado.",
-      "productData": { "price": "5.000", "size": "250ml", "url": "/Brisa-de-paz/images/product/personal-care/mascara-essien.webp" },
+      "productData": { "price": "5.000", "size": "250ml", "url": "/Tesorito-de-Mateo/images/product/personal-care/mascara-essien.webp" },
       "list": []
     },
     {
       "id": 5,
       "title": "Aceite nutritivo",
       "paragraph": "El Aceite Nutritivo de Argán brinda brillo, suavidad y vitalidad, nutriendo y protegiendo el cabello sin dejar residuos grasos.",
-      "productData": { "price": "7.000", "size": "100ml", "url": "/Brisa-de-paz/images/product/personal-care/aceite-essien.webp" },
+      "productData": { "price": "7.000", "size": "100ml", "url": "/Tesorito-de-Mateo/images/product/personal-care/aceite-essien.webp" },
       "list": []
     },
     {
       "id": 6,
       "title": "After Shave Hombre",
       "paragraph": "El After Shave Hombre hidrata y calma la piel después del afeitado, reduciendo la irritación y dejando una sensación de frescura con una fragancia masculina duradera.",
-      "productData": { "price": "4.000", "size": "100ml", "url": "/Brisa-de-paz/images/product/personal-care/after-shave.webp" },
+      "productData": { "price": "4.000", "size": "100ml", "url": "/Tesorito-de-Mateo/images/product/personal-care/after-shave.webp" },
       "list": []
     }
   ]

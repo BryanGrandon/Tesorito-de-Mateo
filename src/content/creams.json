@@ -9,7 +9,7 @@
       "area": ["Manos"],
       "context": { "highlight": "Coconut Passion", "brand": "Victoria's Secret", "type": "Aroma Inspirado" },
       "description": "Tropical Caribbean es una crema para manos inspirada en Coconut Passion de Victoria’s Secret, con aroma a coco y vainilla. Enriquecida con aceite de lanolina y manteca de karité, hidrata, repara y deja la piel suave y perfumada.",
-      "productData": [{ "url": "/Brisa-de-paz/images/product/creams/lavit/lavit-tc.webp" }],
+      "productData": [{ "url": "/Tesorito-de-Mateo/images/product/creams/lavit/lavit-tc.webp" }],
       "img": "",
       "extra": [
         {
@@ -26,7 +26,7 @@
       "area": ["Manos"],
       "context": { "highlight": "Sheer Love Body Mist", "brand": "Victoria's Secret", "type": "Aroma Inspirado" },
       "description": "Sweet Romance es una crema para manos inspirada en Sheer Love de Victoria’s Secret, con una fragancia floral fresca y femenina. Enriquecida con aceite de lanolina y manteca de karité, hidrata, repara y deja la piel suave y perfumada.",
-      "productData": [{ "url": "/Brisa-de-paz/images/product/creams/lavit/lavit-sr.webp" }],
+      "productData": [{ "url": "/Tesorito-de-Mateo/images/product/creams/lavit/lavit-sr.webp" }],
       "img": "",
       "extra": [
         {
@@ -43,7 +43,7 @@
       "area": ["Manos"],
       "context": { "highlight": "Pint Chiffon", "brand": "BBW", "type": "Aroma Inspirado" },
       "description": "Fantasy Of Love es una crema para manos inspirada en Pink Chiffon de Bath & Body Works. Con su aroma dulce y floral, hidrata, repara y deja la piel suave, protegida y delicadamente perfumada.",
-      "productData": [{ "url": "/Brisa-de-paz/images/product/creams/lavit/lavit-fol.webp" }],
+      "productData": [{ "url": "/Tesorito-de-Mateo/images/product/creams/lavit/lavit-fol.webp" }],
       "img": "",
       "extra": [
         {
@@ -60,7 +60,7 @@
       "area": ["Rostro", "Cuello", "Estrías", "Cicatrices", "Marcas"],
       "context": { "highlight": "Reconstruyente", "brand": "", "type": "Crema" },
       "description": "Baba de Caracol de Essien es una crema reconstruyente que regenera, revitaliza y corrige la piel. Con vitamina E, colágeno y elastina, mejora la elasticidad y reduce imperfecciones, dejando el rostro más firme, suave y saludable.",
-      "productData": [{ "price": "9.000", "size": "50grs", "url": "/Brisa-de-paz/images/product/creams/essien/essien_baba-de-caracol.webp" }],
+      "productData": [{ "price": "9.000", "size": "50grs", "url": "/Tesorito-de-Mateo/images/product/creams/essien/essien_baba-de-caracol.webp" }],
       "img": "",
       "extra": [
         {
@@ -81,7 +81,7 @@
       "area": ["Rostro", "Cuello", "Manos", "Rodilla", "Codos"],
       "context": { "highlight": "Ultra regeneradora", "brand": "", "type": "Crema" },
       "description": "Gusano de Seda de Essien es una crema ultra regeneradora que nutre, hidrata y suaviza la piel. Ideal para rostro, cuello y zonas secas, restaura la barrera cutánea, mejora la elasticidad y previene el envejecimiento.",
-      "productData": [{ "price": "12.400", "size": "50grs", "url": "/Brisa-de-paz/images/product/creams/essien/essien_gusano-de-seda.webp" }],
+      "productData": [{ "price": "12.400", "size": "50grs", "url": "/Tesorito-de-Mateo/images/product/creams/essien/essien_gusano-de-seda.webp" }],
       "img": "",
       "extra": [
         {
@@ -98,7 +98,7 @@
       "area": ["Rostro", "Cuello"],
       "context": { "highlight": "Ultra regeneradora", "brand": "", "type": "Crema" },
       "description": "Perfection de Essien es una crema ultra regeneradora con vitamina C y filtro solar que despigmenta, hidrata y protege la piel, aportando luminosidad y un tono uniforme y saludable.",
-      "productData": [{ "price": "15.000", "size": "50grs", "url": "/Brisa-de-paz/images/product/creams/essien/essien_perfection.webp" }],
+      "productData": [{ "price": "15.000", "size": "50grs", "url": "/Tesorito-de-Mateo/images/product/creams/essien/essien_perfection.webp" }],
       "img": "",
       "extra": [
         {
@@ -115,7 +115,7 @@
       "area": ["Rostro", "Cuerpo", "Manos"],
       "context": { "highlight": "Multifuncion con extracto natural de propoleo", "brand": "", "type": "Crema" },
       "description": "Propóleo de Essien es una crema multifunción con extracto natural de propóleo que regenera, cicatriza y repara la piel seca o dañada, aportando suavidad, elasticidad e hidratación al rostro, cuerpo y manos.",
-      "productData": [{ "price": "10.000", "size": "50grs", "url": "/Brisa-de-paz/images/product/creams/essien/essien_propoleo.webp" }],
+      "productData": [{ "price": "10.000", "size": "50grs", "url": "/Tesorito-de-Mateo/images/product/creams/essien/essien_propoleo.webp" }],
       "img": "",
       "extra": [
         {
@@ -132,7 +132,7 @@
       "area": ["Rostro", "Cuello"],
       "context": { "highlight": "Facial", "brand": "", "type": "Crema" },
       "description": "Essien Total 5 es una crema facial de rápida absorción que hidrata, reafirma, rejuvenece, suaviza y nutre la piel. Enriquecida con aloe vera y Focus Vesiculosus, brinda una apariencia más firme y saludable con uso diario, tanto de día como de noche.",
-      "productData": [{ "price": "9.000", "size": "50grs", "url": "/Brisa-de-paz/images/product/creams/essien/essien_total-5.webp" }],
+      "productData": [{ "price": "9.000", "size": "50grs", "url": "/Tesorito-de-Mateo/images/product/creams/essien/essien_total-5.webp" }],
       "img": "",
       "extra": [
         {
@@ -149,7 +149,7 @@
       "area": ["Rostro", "Cuello"],
       "context": { "highlight": "Tratamiento anti-edad", "brand": "", "type": "Crema" },
       "description": "Células Madre de Essien es una crema facial nocturna con Retinol Microencapsulado que estimula la regeneración celular y repara la piel en profundidad. Su fórmula anti-edad mejora la elasticidad, reduce arrugas y deja el rostro más firme e hidratado. Actúa mientras duermes para una piel rejuvenecida y radiante.",
-      "productData": [{ "price": "12.400", "size": "50grs", "url": "/Brisa-de-paz/images/product/creams/essien/essien_celulas-madre.webp" }],
+      "productData": [{ "price": "12.400", "size": "50grs", "url": "/Tesorito-de-Mateo/images/product/creams/essien/essien_celulas-madre.webp" }],
       "img": "",
       "extra": [
         {
@@ -166,7 +166,7 @@
       "area": ["contorno de ojos", "Parpados", "fisuras alrededor de la boca"],
       "context": { "highlight": "Contorno de ojos", "brand": "", "type": "Crema" },
       "description": "Lift Extreme de Essien es una crema de contorno de ojos con ácido hialurónico que rellena y suaviza líneas de expresión. Hidrata, reafirma y mejora la elasticidad, dejando la piel del contorno de ojos más tersa, luminosa y rejuvenecida.",
-      "productData": [{ "price": "8.000", "size": "15grs", "url": "/Brisa-de-paz/images/product/creams/essien/essien_lift-extreme.webp" }],
+      "productData": [{ "price": "8.000", "size": "15grs", "url": "/Tesorito-de-Mateo/images/product/creams/essien/essien_lift-extreme.webp" }],
       "img": "",
       "extra": [
         {
@@ -183,7 +183,7 @@
       "area": ["Rostro", "Cuello", "Estrías", "Cicatrices", "Marcas"],
       "context": { "highlight": "Anti-celulitis", "brand": "", "type": "Gel" },
       "description": "Phytocomplex de Essien es un gel anti-celulitis con árnica y castaño de Indias que mejora la circulación y fortalece la piel. Su fórmula antiinflamatoria y analgésica reduce la hinchazón, protege la pared venosa y estimula la microcirculación, dejando la piel más firme, fresca y revitalizada.",
-      "productData": [{ "price": "7.000", "size": "150grs", "url": "/Brisa-de-paz/images/product/creams/essien/essien_phytocomplex.webp" }],
+      "productData": [{ "price": "7.000", "size": "150grs", "url": "/Tesorito-de-Mateo/images/product/creams/essien/essien_phytocomplex.webp" }],
       "img": "",
       "extra": [
         {
@@ -201,7 +201,7 @@
       "context": { "highlight": "exfoliante chocolate / candy", "brand": "", "type": "Crema" },
       "description": "Skin Scrub de Essien es una crema exfoliante con aroma a chocolate o candy que limpia, renueva y suaviza la piel. Su fórmula en gel con hibisco, verbena y polímeros de silicona elimina impurezas y reduce los poros sin dejar sensación grasa, dejando la piel luminosa y sedosa.",
       "img": "",
-      "productData": [{ "price": "7.000", "size": "200grs", "url": "/Brisa-de-paz/images/product/creams/essien/essien_skin-scrub.webp" }],
+      "productData": [{ "price": "7.000", "size": "200grs", "url": "/Tesorito-de-Mateo/images/product/creams/essien/essien_skin-scrub.webp" }],
       "extra": [
         {
           "title": "Limpieza cotidiana",
@@ -217,7 +217,7 @@
       "area": ["Rostro", "Manos", "Cuerpo"],
       "context": { "highlight": "Filtro solar", "brand": "", "type": "Crema" },
       "description": "Dermacare de Essien protege la piel de las radiaciones UVA y UVB, previniendo el envejecimiento prematuro. Su fórmula hidrata y mantiene la piel suave y saludable, ideal para rostro, manos y cuerpo.",
-      "productData": [{ "price": "7.000", "size": "80grs", "url": "/Brisa-de-paz/images/product/creams/essien/essien_dermacare.webp" }],
+      "productData": [{ "price": "7.000", "size": "80grs", "url": "/Tesorito-de-Mateo/images/product/creams/essien/essien_dermacare.webp" }],
       "img": "",
       "extra": [
         {

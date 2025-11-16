@@ -1,4 +1,4 @@
-# Brisa de paz
+# Tesorito de Mateo
 
 Esta página web ha sido creada para presentar un catálogo de perfumes, colonias, cremas de manos y otros productos de cuidado personal. Su propósito es brindar una experiencia visual ordenada y atractiva, permitiendo a los usuarios explorar fácilmente diferentes fragancias y artículos de manera cómoda e intuitiva.
 
@@ -13,13 +13,13 @@ Esta página web ha sido creada para presentar un catálogo de perfumes, colonia
 Clone the repository:
 
 ```bash
-git clone https://github.com/BryanGrandon/Brisa-de-paz
+git clone https://github.com/BryanGrandon/Tesorito-de-Mateo
 ```
 
 Access the project folder
 
 ```bash
-cd Brisa-de-paz
+cd Tesorito-de-Mateo
 ```
 
 Install all the project dependencies with:

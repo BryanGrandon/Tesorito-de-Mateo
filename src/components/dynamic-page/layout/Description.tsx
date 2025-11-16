@@ -14,10 +14,10 @@ const Description = ({ description, info }: Props) => {
   return (
     <article className='rounded-lg overflow-hidden border border-black/40 shadow-md shadow-gray-400 max-w-150'>
       <section className='grid grid-cols-2 border-b border-black/40 '>
-        <button className={`p-1 border-r-1 cursor-pointer ${type == 'desc' ? 'bg-primary text-white' : ''}`} onClick={() => setType('desc')}>
+        <button className={`p-1 border-r-1 cursor-pointer ${type == 'desc' ? 'bg-primary text-black' : ''}`} onClick={() => setType('desc')}>
           Description
         </button>
-        <button className={`p-1 cursor-pointer ${type == 'info' ? 'bg-primary text-white' : ''}`} onClick={() => setType('info')}>
+        <button className={`p-1 cursor-pointer ${type == 'info' ? 'bg-primary text-black' : ''}`} onClick={() => setType('info')}>
           Información
         </button>
       </section>

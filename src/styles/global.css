@@ -3,15 +3,15 @@
 
 @font-face {
   font-family: 'Basicaline';
-  src: url('/Brisa-de-paz/fonts/Basicaline.woff') format('woff');
+  src: url('/Tesorito-de-Mateo/fonts/Basicaline.woff') format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
 
 @theme {
-  --color-primary: #155dfc;
-  --color-secondary: #ff411d;
+  --color-primary: #40e0d0;
+  --color-secondary: #e04151;
   --color-background-dark: #15181e;
   --color-background-light: #e5e7eb;
   --font-basicaline: 'Basicaline', sans-serif;

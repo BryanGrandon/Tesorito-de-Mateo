@@ -8,7 +8,7 @@ import react from '@astrojs/react'
 // https://astro.build/config
 export default defineConfig({
   site: 'https://BryanGrandon.github.io',
-  base: '/Brisa-de-paz',
+  base: '/Tesorito-de-Mateo',
 
   vite: {
     plugins: [tailwindcss()],

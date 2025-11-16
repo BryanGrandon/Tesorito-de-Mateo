@@ -22,12 +22,12 @@ const PriceOfPerfumes = ({ prices }: Props) => {
 
     const $btn1 = document.querySelector(`.btn-${selectSize}`)
     $btn1?.classList.remove('bg-primary')
-    $btn1?.classList.remove('text-white')
+    $btn1?.classList.remove('text-black')
 
     setSelectSize(size)
     const $btn = document.querySelector(`.btn-${size}`)
     $btn?.classList.add('bg-primary')
-    $btn?.classList.add('text-white')
+    $btn?.classList.add('text-black')
   }
 
   return (

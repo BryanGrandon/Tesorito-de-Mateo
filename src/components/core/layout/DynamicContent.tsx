@@ -19,7 +19,7 @@ const DynamicContent = ({ type = '' }: Props) => {
       <article className='grid grid-cols-[repeat(auto-fill,_minmax(20rem,_1fr))] gap-4'>
         {data.map((el) => (
           <a
-            href={'/Brisa-de-paz/' + type + '_' + el?.name.toLowerCase().split(' ').join('-')}
+            href={'/Tesorito-de-Mateo/' + type + '_' + el?.name.toLowerCase().split(' ').join('-')}
             key={el?.name}
             className='flex flex-row items-center rounded-xl overflow-hidden bg-white/45 shadow-lg shadow-black/20 text-black hover:scale-[1.02] transition-transform duration-150 ease-in-out cursor-pointer'
           >

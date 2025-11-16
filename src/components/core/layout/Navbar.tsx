@@ -16,8 +16,8 @@ const Navbar = () => {
     <header className='text-black bg-white/70'>
       <nav className='p-4 flex flex-col gap-4'>
         <article className='flex w-full items-center justify-between gap-8'>
-          <a href='/Brisa-de-paz/' className='min-w-fit font-bold'>
-            Brisa de Paz
+          <a href='/Tesorito-de-Mateo/' className='min-w-fit font-bold'>
+            Tesorito de Mateo
           </a>
           <article className='hidden lg:block'>
             <NavbarMenu />
@@ -55,7 +55,7 @@ const Navbar = () => {
       </article>
       <a
         target='__blank'
-        href='https://api.whatsapp.com/send?phone=942972075&text=Hola, estoy interesado en comprar.'
+        href='https://api.whatsapp.com/send?phone=982642669&text=Hola, estoy interesado en comprar.'
         className='fixed bottom-[1rem] right-[0.5rem] rounded-full p-2 bg-[#25D366] shadow shadow-black/50 text-white active:scale-95 hover:scale-105 z-10 text-2xl'
       >
         <IconWsp />

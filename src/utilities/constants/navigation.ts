@@ -1,8 +1,8 @@
-const LINK_TO_PERFUMES_FOR_YOUNG_PEOPLE = '/Brisa-de-paz/perfumes-for-young-people'
-const LINK_TO_PERFUMES_FOR_WOMEN = '/Brisa-de-paz/perfumes-for-women'
-const LINK_TO_PERFUMES_FOR_MEN = '/Brisa-de-paz/perfumes-for-men'
-const LINK_TO_NICHE_PERFUMES = '/Brisa-de-paz/niche-perfumes'
-const LINK_ALL_PERFUMES = '/Brisa-de-paz/all-perfumes'
+const LINK_TO_PERFUMES_FOR_YOUNG_PEOPLE = '/Tesorito-de-Mateo/perfumes-for-young-people'
+const LINK_TO_PERFUMES_FOR_WOMEN = '/Tesorito-de-Mateo/perfumes-for-women'
+const LINK_TO_PERFUMES_FOR_MEN = '/Tesorito-de-Mateo/perfumes-for-men'
+const LINK_TO_NICHE_PERFUMES = '/Tesorito-de-Mateo/niche-perfumes'
+const LINK_ALL_PERFUMES = '/Tesorito-de-Mateo/all-perfumes'
 
 export { LINK_TO_PERFUMES_FOR_YOUNG_PEOPLE, LINK_TO_PERFUMES_FOR_WOMEN, LINK_TO_PERFUMES_FOR_MEN, LINK_TO_NICHE_PERFUMES }
 
@@ -10,8 +10,8 @@ const NAVBAR = [
   {
     id: 1,
     nav: 'Inicio',
-    name: 'Brisa de Paz',
-    url: '/Brisa-de-paz/',
+    name: 'Tesorito de Mateo',
+    url: '/Tesorito-de-Mateo/',
   },
   {
     id: 2,
@@ -42,22 +42,22 @@ const NAVBAR = [
   {
     id: 3,
     nav: 'Cremas',
-    url: '/Brisa-de-paz/creams',
+    url: '/Tesorito-de-Mateo/creams',
   },
   {
     id: 4,
     nav: 'Colonias',
-    url: '/Brisa-de-paz/cologne',
+    url: '/Tesorito-de-Mateo/cologne',
   },
   {
     id: 5,
     nav: 'Cuidado Personal',
-    url: '/Brisa-de-paz/personal-care',
+    url: '/Tesorito-de-Mateo/personal-care',
   },
   {
     id: 6,
     nav: 'Aromatizadores',
-    url: '/Brisa-de-paz/aromatizadores',
+    url: '/Tesorito-de-Mateo/aromatizadores',
   },
 ]
 

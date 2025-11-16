@@ -5,7 +5,7 @@
     {
       "title": "Lavit",
       "paragraph": "Lavit te trae colonias frescas y modernas inspiradas en aromas icónicos. Fragancias accesibles, vibrantes y perfectas para usar todos los días.",
-      "productData": { "price": "5.400", "size": "210ml", "url": "/Brisa-de-paz/images/product/personal-care/colonias-lavit.webp" },
+      "productData": { "price": "5.400", "size": "210ml", "url": "/Tesorito-de-Mateo/images/product/personal-care/colonias-lavit.webp" },
       "list": [
         {
           "id": 0,
@@ -42,7 +42,7 @@
     {
       "title": "Fragancias Mujer",
       "paragraph": "Nuestras Fragancias Mujer están inspiradas en perfumes icónicos que realzan la feminidad, elegancia y estilo de cada mujer.",
-      "productData": { "price": "5.800", "size": "400ml", "url": "/Brisa-de-paz/images/product/personal-care/S400-woman.webp" },
+      "productData": { "price": "5.800", "size": "400ml", "url": "/Tesorito-de-Mateo/images/product/personal-care/S400-woman.webp" },
       "list": [
         {
           "id": 0,
@@ -199,7 +199,7 @@
     {
       "title": "Fragancias Hombre",
       "paragraph": "Nuestras Fragancias Hombre se inspiran en perfumes icónicos que combinan frescura, elegancia y carácter.",
-      "productData": { "price": "5.800", "size": "400ml", "url": "/Brisa-de-paz/images/product/personal-care/S400-men.webp" },
+      "productData": { "price": "5.800", "size": "400ml", "url": "/Tesorito-de-Mateo/images/product/personal-care/S400-men.webp" },
       "list": [
         {
           "id": 0,
