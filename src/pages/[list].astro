@@ -1,0 +1,66 @@
+---
+import Layout from '../layouts/Layout.astro'
+import { DYNAMIC_LIST } from '../utilities/constants/dynamic-pages'
+import Navbar from '../components/core/layout/Navbar'
+import Footer from '../components/core/layout/Footer'
+
+export const getStaticPaths = () => {
+  return DYNAMIC_LIST.map(({ list, data }) => {
+    return {
+      params: { list },
+      props: { data, list },
+    }
+  })
+}
+const { data } = Astro.props
+const { title, paragraph, items } = data
+---
+
+<Layout>
+  <Navbar client:load />
+  <main class='p-4'>
+    <article class='p-4 flex flex-col items-center gap-2'>
+      <h2 class='font-basicaline text-3xl text-black font-bold'>{title}</h2>
+      <p class='text-gray-600'>{paragraph}</p>
+    </article>
+    <article class='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4'>
+      {
+        items.map((el) => (
+          <section class='p-4 rounded-lg shadow shadow-black/50 bg-white/40 flex flex-col gap-4'>
+            <section class='flex justify-between gap-4 '>
+              <div class='flex flex-col gap-4'>
+                <h3 class='font-basicaline text-2xl font-semibold'>{el.title}</h3>
+                <div class='flex flex-col md:flex-row gap-1 md:gap-4 px-4'>
+                  <p>Presio: ${el.productData.price}</p>
+                  <p>Tamano: {el.productData.size}</p>
+                </div>
+              </div>
+              <img src={el.productData.url} alt={`img-${title}`} class='rounded-lg h-25 md:h-20 object-contain shadow shadow-black/30' />
+            </section>
+            <p class='prose'>{el.paragraph}</p>
+
+            {el?.list && el?.list.length > 0 ? (
+              <details class='bg-gray-200 rounded shadow shadow-black/25'>
+                <summary class='cursor-pointer p-2'>Ver listado de aromas</summary>
+                <article class='grid grid-cols-1 xl:grid-cols-2 gap-2 p-2 max-h-75 overflow-auto'>
+                  {el.list.map((el) => (
+                    <div class='flex flex-col p-2 rounded shadow shadow-black/40 bg-white/60'>
+                      <h3 class='font-basicaline text-xl'>{el.name}</h3>
+                      {el?.highlight && el.highlight.length > 0 ? (
+                        <abbr title={el?.highlight} class='no-underline overflow-hidden '>
+                          <sub class='text-gray-600'>inspiration</sub>
+                          <h3 class='px-4 overflow-hidden w-auto text-ellipsis whitespace-nowrap cursor-pointer'>{el?.highlight}</h3>
+                        </abbr>
+                      ) : null}
+                    </div>
+                  ))}
+                </article>
+              </details>
+            ) : null}
+          </section>
+        ))
+      }
+    </article>
+  </main>
+  <Footer />
+</Layout>

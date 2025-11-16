@@ -1,0 +1,601 @@
+{
+  "title": "Perfumes Mujer - Parfums d' Parfums",
+  "paragraph": "Perfumes para mujeres de Parfums d' Parfums: fragancias elegantes y duraderas para quienes valoran el estilo y la distinción.",
+  "items": [
+    {
+      "id": 1,
+      "name": "Perfums F01",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Chypre", "Floral"],
+      "context": { "highlight": "Paloma Picasso", "brand": "Paloma Picasso", "type": "Inspiracion" },
+      "description": "Parfums F01 es un perfume Chipre Floral, elegante y clásico, ideal para mujeres que disfrutan de aromas como Paloma Picasso. Perfecto para el uso diario y climas cálidos."
+    },
+    {
+      "id": 2,
+      "name": "Perfums F02",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Floral", "Especiado"],
+      "context": { "highlight": "poison", "brand": "Christian Doir", "type": "Inspiracion" },
+      "description": "Parfums F02 es una fragancia Oriental Floral, inspirada en Poison de Dior. Misteriosa y seductora, es ideal para mujeres elegantes, especialmente en noches frías."
+    },
+    {
+      "id": 3,
+      "name": "Perfums F03",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Floral", "Oriental"],
+      "context": { "highlight": "Oscar de la Renta", "brand": "Oscar de la Renta", "type": "Inspiracion" },
+      "description": "Parfums F03 es una fragancia Oriental Floral, inspirada en Oscar de la Renta. Clásica y elegante, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 4,
+      "name": "Perfums F04",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Floral", "Almizclado"],
+      "context": { "highlight": "Angel (T.Mugler)", "brand": "Thiery Mugier", "type": "Inspiracion" },
+      "description": "Parfums F04 es una fragancia Oriental Vainilla, inspirada en Angel de Mugler. Dulce y envolvente, perfecta para la noche y climas fríos."
+    },
+    {
+      "id": 5,
+      "name": "Perfums F05",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Floral", "Aldehídico"],
+      "context": { "highlight": "Chanel NO.5", "brand": "Chanel", "type": "Inspiracion" },
+      "description": "Parfums F05 es una fragancia Floral Aldehídica, inspirada en Chanel Nº5. Clásica y sofisticada, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 6,
+      "name": "Perfums F06",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Chypre", "Frutal"],
+      "context": { "highlight": "212 VIP Rose", "brand": "Carolina Herrera", "type": "Inspiracion" },
+      "description": "Parfums F06 es una fragancia Floral Frutal, inspirada en 212 VIP Rosé de Carolina Herrera. Fresca y sofisticada, ideal para la noche y climas cálidos."
+    },
+    {
+      "id": 7,
+      "name": "Perfums F07",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Floral", "Frutal"],
+      "context": { "highlight": "Ralph", "brand": "Ralph Lauren", "type": "Inspiracion" },
+      "description": "Parfums F07 es una fragancia Floral Frutal, inspirada en Ralph de Ralph Lauren. Fresca y juvenil, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 8,
+      "name": "Perfums F08",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Oriental", "Floral"],
+      "context": { "highlight": "Paradox (Prada)", "brand": "Prada", "type": "Inspiracion" },
+      "description": "Parfums F08 es una fragancia Oriental Floral, inspirada en Paradoxe de Prada. Sofisticada y moderna, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 9,
+      "name": "Perfums F09",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Frutal", "Floral"],
+      "context": { "highlight": "Tresor", "brand": "Lancôme", "type": "Inspiracion" },
+      "description": "Parfums F09 es una fragancia Oriental Floral, inspirada en Trésor de Lancôme. Elegante y romántica, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 10,
+      "name": "Perfums F10",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Frutal", "Chypre"],
+      "context": { "highlight": "Coco Mademoiselle", "brand": "Chanel", "type": "Inspiracion" },
+      "description": "Parfums F10 es una fragancia Oriental Floral, inspirada en Coco Mademoiselle de Chanel. Sofisticada y moderna, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 11,
+      "name": "Perfums F11",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Frutal", "Chypre"],
+      "context": { "highlight": "Coco Chanel", "brand": "Chanel", "type": "Inspiracion" },
+      "description": "Parfums F11 es una fragancia Oriental Especiada, inspirada en Coco de Chanel. Sofisticada y seductora, ideal para la noche y climas fríos."
+    },
+    {
+      "id": 12,
+      "name": "Perfums F12",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Frutal", "Oriental"],
+      "context": { "highlight": "Black Opium", "brand": "Yves Saint Laurent", "type": "Inspiracion" },
+      "description": "Parfums F12 es una fragancia Oriental Vainilla, inspirada en Black Opium de Yves Saint Laurent. Intensa y seductora, ideal para la noche y climas fríos."
+    },
+    {
+      "id": 13,
+      "name": "Perfums F13",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Frutal", "Floral"],
+      "context": { "highlight": "212 Heroes For Her", "brand": "Carolina Herrera", "type": "Inspiracion" },
+      "description": "Parfums F13 es una fragancia Floral Frutal, inspirada en 212 Heroes de Carolina Herrera. Joven y vibrante, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 14,
+      "name": "Perfums F14",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Oriental", "Cítrico"],
+      "context": { "highlight": "CH", "brand": "Carolina Herrera", "type": "Inspiracion" },
+      "description": "Parfums F14 es una fragancia Oriental Floral, inspirada en CH de Carolina Herrera. Elegante y moderna, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 15,
+      "name": "Perfums F15",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Oriental", "Frutal"],
+      "context": { "highlight": "Lolita Lempicka", "brand": "Lolita Empicka", "type": "Inspiracion" },
+      "description": "Parfums F15 es una fragancia Floral Frutal Gourmand, inspirada en Lolita Lempicka. Dulce y encantadora, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 16,
+      "name": "Perfums F16",
+      "genre": "Mujer",
+      "olfactory_families": ["Floral", "Fresco"],
+      "brand": "perfums d'perfums",
+      "context": { "highlight": "Anais - Anais", "brand": "Cacharel", "type": "Inspiracion" },
+      "description": "Parfums F16 es una fragancia Floral, inspirada en Anais Anais de Cacharel. Delicada y atemporal, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 17,
+      "name": "Perfums F17",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Cítrico", "Chypre"],
+      "context": { "highlight": "Ô de Lancôme", "brand": "Lancôme", "type": "Inspiracion" },
+      "description": "Parfums F17 es una fragancia Cítrica, inspirada en Ô de Lancôme. Fresca y revitalizante, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 18,
+      "name": "Perfums F18",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Floral", "Fresco"],
+      "context": { "highlight": "Carolina Herrera", "brand": "Carolina Herrera", "type": "Inspiracion" },
+      "description": "Parfums F18 es una fragancia Floral, inspirada en Carolina Herrera. Elegante y clásica, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 19,
+      "name": "Perfums F19",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Floral", "Verde"],
+      "context": { "highlight": "L'eau d'Issey", "brand": "Issey Miyake", "type": "Inspiracion" },
+      "description": "Parfums F19 es una fragancia Floral Acuática, inspirada en L'Eau d'Issey de Issey Miyake. Fresca y pura, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 20,
+      "name": "Perfums F20",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Floral", "Floral"],
+      "context": { "highlight": "Eternity", "brand": "Calvin Klein", "type": "Inspiracion" },
+      "description": "Parfums F20 es una fragancia Floral, inspirada en Eternity de Calvin Klein. Romántica y clásica, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 21,
+      "name": "Perfums F21",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Floral", "Especiado"],
+      "context": { "highlight": "Organza", "brand": "Givenchy", "type": "Inspiracion" },
+      "description": "Parfums F21 es una fragancia Oriental Floral, inspirada en Organza de Givenchy. Sofisticada y envolvente, ideal para la noche y climas fríos."
+    },
+    {
+      "id": 22,
+      "name": "Perfums F22",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Floral", "Modesto"],
+      "context": { "highlight": "Woman", "brand": "Ralph Lauren", "type": "Inspiracion" },
+      "description": "Parfums F22 es una fragancia Floral, inspirada en Woman de Ralph Lauren. Femenina y sofisticada, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 23,
+      "name": "Perfums F23",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Floral", "Oriental"],
+      "context": { "highlight": "My Way", "brand": "Giorgio Armani", "type": "Inspiracion" },
+      "description": "Parfums F23 es una fragancia Floral, inspirada en My Way de Giorgio Armani. Elegante y moderna, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 24,
+      "name": "Perfums F24",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Floral", "Chypre"],
+      "context": { "highlight": "Animale", "brand": "S. Lyon", "type": "Inspiracion" },
+      "description": "Parfums F24 es una fragancia Chipre, inspirada en Animale de Animale. Audaz y exótica, ideal para la noche y climas fríos."
+    },
+    {
+      "id": 25,
+      "name": "Perfums F25",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Floral", "Frutal", "Ambarado"],
+      "context": { "highlight": "Burberry Her", "brand": "Burbery", "type": "Inspiracion" },
+      "description": "Parfums F25 es una fragancia Floral Frutal Gourmand, inspirada en Burberry Her. Dulce y sofisticada, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 26,
+      "name": "Perfums F26",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Floral", "Floral"],
+      "context": { "highlight": "Paris", "brand": "Yves Saint Laurent", "type": "Inspiracion" },
+      "description": "Parfums F26 es una fragancia Floral, inspirada en Paris de Yves Saint Laurent. Romántica y clásica, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 27,
+      "name": "Perfums F27",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Floral", "Frutal"],
+      "context": { "highlight": "Be Delicious", "brand": "Donna Karan", "type": "Inspiracion" },
+      "description": "Parfums F27 es una fragancia Floral Frutal, inspirada en Be Delicious de DKNY. Fresca y juvenil, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 28,
+      "name": "Perfums F28",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Cítrico", "Maderoso"],
+      "context": { "highlight": "C.K. One", "brand": "Calvin Klein", "type": "Inspiracion" },
+      "description": "Parfums F28 es una fragancia Cítrica Aromática, inspirada en CK One de Calvin Klein. Fresca y versátil, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 29,
+      "name": "Perfums F29",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Floral", "Fresco"],
+      "context": { "highlight": "212 Carolina Herrera", "brand": "Carolina Herrera", "type": "Inspiracion" },
+
+      "description": "Parfums F29 es una fragancia Almizcle Floral Amaderado, inspirada en 212 de Carolina Herrera. Moderna y sofisticada, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 30,
+      "name": "Perfums F30",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Cítrico", "Gourmand"],
+      "context": { "highlight": "Devotion (D&G)", "brand": "Dolce & Gabbana", "type": "Inspiracion" },
+      "description": "Parfums F30 es una fragancia Oriental Vainilla, inspirada en Devotion de Dolce & Gabbana. Dulce y fresca, ideal para uso diario y climas fríos."
+    },
+    {
+      "id": 31,
+      "name": "Perfums F31",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Floral", "Frutal"],
+      "context": { "highlight": "Eden", "brand": "Cacharel", "type": "Inspiracion" },
+      "description": "Parfums F31 es una fragancia Floral, inspirada en Eden de Cacharel. Exótica y sensual, ideal para la noche y climas cálidos."
+    },
+    {
+      "id": 32,
+      "name": "Perfums F32",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Floral", "Frutal"],
+      "context": { "highlight": "Escape", "brand": "Calvin Klein", "type": "Inspiracion" },
+      "description": "Parfums F32 es una fragancia Floral Acuática, inspirada en Escape de Calvin Klein. Fresca y envolvente, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 33,
+      "name": "Perfums F33",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Oriental", "Floral"],
+      "context": { "highlight": "La Vida Es Bella Intense", "brand": "Lancôme", "type": "Inspiracion" },
+      "description": "Parfums F33 es una fragancia Oriental Floral, inspirada en La Vie Est Belle Intensément de Lancôme. Intensa y apasionada, ideal para la noche y climas fríos."
+    },
+    {
+      "id": 34,
+      "name": "Perfums F34",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Chypre", "Floral"],
+      "context": { "highlight": "Lady Millon Empire", "brand": "Paco Rabanne", "type": "Inspiracion" },
+      "description": "Parfums F34 es una fragancia Chipre Floral, inspirada en Lady Million Empire de Paco Rabanne. Audaz y sofisticada, ideal para la noche y climas fríos."
+    },
+    {
+      "id": 35,
+      "name": "Perfums F35",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Floral", "Oriental"],
+      "context": { "highlight": "Flower By Kenzo", "brand": "Kenzo", "type": "Inspiracion" },
+      "description": "Parfums F35 es una fragancia Oriental Floral, inspirada en Flower de Kenzo. Delicada y elegante, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 36,
+      "name": "Perfums F36",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Floral", "Verde"],
+      "context": { "highlight": "Tommy Girl", "brand": "Tommy Hilfiger", "type": "Inspiracion" },
+      "description": "Parfums F36 es una fragancia Floral Frutal, inspirada en Tommy Girl de Tommy Hilfiger. Fresca y juvenil, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 37,
+      "name": "Perfums F37",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Oriental", "Frutal"],
+      "context": { "highlight": "XS Black Woman", "brand": "Paco Rabanne", "type": "Inspiracion" },
+      "description": "Parfums F37 es una fragancia Almizcle Floral Amaderado, inspirada en Black XS de Paco Rabanne. Intensa y atrevida, ideal para la noche y climas fríos."
+    },
+    {
+      "id": 38,
+      "name": "Perfums F38",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Floral", "Frutal"],
+      "context": { "highlight": "J'Adore", "brand": "Christian Doir", "type": "Inspiracion" },
+      "description": "Parfums F38 es una fragancia Floral Frutal, inspirada en J'adore de Dior. Elegante y sofisticada, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 39,
+      "name": "Perfums F39",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Floral", "Frutal"],
+      "context": { "highlight": "Boss Woman", "brand": "Hugo Boss", "type": "Inspiracion" },
+      "description": "Parfums F39 es una fragancia Floral Frutal, inspirada en Boss Woman de Hugo Boss. Moderna y vibrante, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 40,
+      "name": "Perfums F40",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Oriental", "Frutal"],
+      "context": { "highlight": "Amor Amor", "brand": "Cacharel", "type": "Inspiracion" },
+      "description": "Parfums F40 es una fragancia Floral Frutal, inspirada en Amor Amor de Cacharel. Romántica y vibrante, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 41,
+      "name": "Perfums F41",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Oriental", "Frutal"],
+      "context": { "highlight": "Can Can", "brand": "Paris Hilton", "type": "Inspiracion" },
+      "description": "Parfums F41 es una fragancia Floral Frutal, inspirada en Can Can de Paris Hilton. Dulce y seductora, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 42,
+      "name": "Perfums F42",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Chypre", "Floral"],
+      "context": { "highlight": "Carolina", "brand": "Carolina Herrera", "type": "Inspiracion" },
+      "description": "Parfums F42 es una fragancia Almizcle Floral Amaderado, inspirada en Carolina de Carolina Herrera. Elegante y moderna, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 43,
+      "name": "Perfums F43",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Oriental", "Floral"],
+      "context": { "highlight": "Good Girl", "brand": "Carolina Herrera", "type": "Inspiracion" },
+      "description": "Parfums F43 es una fragancia Oriental Floral, inspirada en Good Girl de Carolina Herrera. Sofisticada y seductora, ideal para la noche y climas fríos."
+    },
+    {
+      "id": 44,
+      "name": "Perfums F44",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Oriental", "Floral"],
+      "context": { "highlight": "Olympea", "brand": "Paco Rabanne", "type": "Inspiracion" },
+      "description": "Parfums F44 es una fragancia Oriental Floral, inspirada en Olympéa de Paco Rabanne. Fresca y empoderada, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 45,
+      "name": "Perfums F45",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Floral", "Frutal"],
+      "context": { "highlight": "Halloween", "brand": "Jesus del Pozo", "type": "Inspiracion" },
+      "description": "Parfums F45 es una fragancia Oriental Floral, inspirada en Halloween de Jesús del Pozo. Misteriosa y encantadora, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 46,
+      "name": "Perfums F46",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Floral", "Oriental"],
+      "context": { "highlight": "212 Sexy", "brand": "Carolina Herrera", "type": "Inspiracion" },
+      "description": "Parfums F46 es una fragancia Oriental Floral, inspirada en 212 Sexy de Carolina Herrera. Seductora y moderna, ideal para la noche y climas fríos."
+    },
+    {
+      "id": 47,
+      "name": "Perfums F47",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Floral", "Chypre"],
+      "context": { "highlight": "La Vida Es Bella Rose", "brand": "Lancôme", "type": "Inspiracion" },
+      "description": "Parfums F47 es una fragancia Floral Frutal, inspirada en La Vie Est Belle en Rose de Lancôme. Fresca y alegre, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 48,
+      "name": "Perfums F48",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Floral", "Verde"],
+      "context": { "highlight": "Duende", "brand": "Jesus del Pozo", "type": "Inspiracion" },
+      "description": "Parfums F48 es una fragancia Floral, inspirada en Duende de Jesús Del Pozo. Elegante y delicada, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 49,
+      "name": "Perfums F49",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Oriental", "Frutal"],
+      "context": { "highlight": "Nina", "brand": "Nica Ricci", "type": "Inspiracion" },
+      "description": "Parfums F49 es una fragancia Floral Frutal, inspirada en Nina de Nina Ricci. Fresca y juvenil, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 50,
+      "name": "Perfums F50",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Cítrico", "Maderoso"],
+      "context": { "highlight": "Light Blue", "brand": "Dolce & Gabbana", "type": "Inspiracion" },
+      "description": "Parfums F50 es una fragancia Floral Frutal, inspirada en Light Blue de Dolce & Gabbana. Fresca y vibrante, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 51,
+      "name": "Perfums F51",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Chypre", "Frutal"],
+      "context": { "highlight": "Si", "brand": "Armani", "type": "Inspiracion" },
+      "description": "Parfums F51 es una fragancia Chipre Frutal, inspirada en Sì de Giorgio Armani. Sofisticada y moderna, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 52,
+      "name": "Perfums F52",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Floral", "Verde"],
+      "context": { "highlight": "Ultravillet", "brand": "Paco Rabanne", "type": "Inspiracion" },
+      "description": "Parfums F52 es una fragancia Oriental Floral, inspirada en Ultraviolet de Paco Rabanne. Intensa y vibrante, ideal para la noche y climas fríos."
+    },
+    {
+      "id": 53,
+      "name": "Perfums F53",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Floral", "Frutal"],
+      "context": { "highlight": "Euphoria", "brand": "Calvin Klein", "type": "Inspiracion" },
+      "description": "Parfums F53 es una fragancia Oriental Floral, inspirada en Euphoria de Calvin Klein. Misteriosa y sensual, ideal para la noche y climas fríos."
+    },
+    {
+      "id": 54,
+      "name": "Perfums F54",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Floral", "Oriental"],
+      "context": { "highlight": "Lady Millon", "brand": "Paco Rabanne", "type": "Inspiracion" },
+      "description": "Parfums F54 es una fragancia Oriental Floral, inspirada en Lady Million de Paco Rabanne. Sensual, seductora y moderna, combina audacia con elegancia irresistible."
+    },
+    {
+      "id": 55,
+      "name": "Perfums F55",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Floral", "Frutal"],
+      "context": { "highlight": "212 Vip", "brand": "Carolina Herrera", "type": "Inspiracion" },
+      "description": "Parfums F55 es una fragancia Oriental Vainilla, inspirada en 212 VIP de Carolina Herrera. Elegante y festiva, ideal para la noche y climas fríos."
+    },
+    {
+      "id": 56,
+      "name": "Perfums F56",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Chypre", "Floral"],
+      "context": { "highlight": "Miss Dior Rose", "brand": "Christian Doir", "type": "Inspiracion" },
+      "description": "Parfums F56 es una fragancia Floral, inspirada en Miss Dior Rose N'Roses. Fresca y radiante, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 57,
+      "name": "Perfums F57",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Chypre", "Frutal"],
+      "context": { "highlight": "La Vida Es Bella", "brand": "Lancôme", "type": "Inspiracion" },
+      "description": "Parfums F57 es una fragancia Floral Frutal Gourmand, inspirada en La Vie Est Belle de Lancôme. Dulce y sofisticada, ideal para uso diario y climas fríos."
+    },
+    {
+      "id": 58,
+      "name": "Perfums F58",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Maderoso", "Cítrico"],
+      "context": { "highlight": "Libre (Y.S.L.)", "brand": "Yves Saint Laurent", "type": "Inspiracion" },
+      "description": "Parfums F58 es una fragancia Oriental Fougère, inspirada en Libre de Yves Saint Laurent. Audaz y moderna, ideal para la noche y climas fríos."
+    },
+    {
+      "id": 59,
+      "name": "Perfums F59",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Floral", "Chypre"],
+      "context": { "highlight": "Idole", "brand": "Lancôme", "type": "Inspiracion" },
+      "description": "Parfums F59 es una fragancia Chipre Floral, inspirada en Idôle de Lancôme. Elegante y luminosa, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 60,
+      "name": "Perfums F60",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Chypre", "Frutal"],
+      "context": { "highlight": "Acqua Di Gioia", "brand": "Armani", "type": "Inspiracion" },
+      "description": "Parfums F60 es una fragancia Floral Acuática, inspirada en Acqua di Gioia de Giorgio Armani. Fresca y revitalizante, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 61,
+      "name": "Perfums F61",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Floral", "Frutal"],
+      "context": { "highlight": "La Vida Es Bella L' Elixir", "brand": "Lancôme", "type": "Inspiracion" },
+      "description": "Parfums F61 es una fragancia Floral Frutal Gourmand, inspirada en La Vie est Belle L'Elixir de Lancôme. Dulce y sofisticada, ideal para la noche y climas fríos."
+    },
+    {
+      "id": 62,
+      "name": "Perfums F62",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Floral", "Frutal"],
+      "context": { "highlight": "Dolce", "brand": "Dolce & Gabbana", "type": "Inspiracion" },
+      "description": "Parfums F62 es una fragancia Floral, inspirada en Dolce de Dolce & Gabbana. Delicada y femenina, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 63,
+      "name": "Perfums F63",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Floral", "Oriental"],
+      "context": { "highlight": "Live Irresistible", "brand": "Givenchy", "type": "Inspiracion" },
+      "description": "Parfums F63 es una fragancia Floral Frutal, inspirada en Live Irresistible de Givenchy. Vibrante y alegre, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 64,
+      "name": "Perfums F64",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Floral", "Oriental"],
+      "context": { "highlight": "La nuit Tresor", "brand": "Lancôme", "type": "Inspiracion" },
+      "description": "Parfums F64 es una fragancia Oriental Vainilla, inspirada en La Nuit Trésor de Lancôme. Seductora y envolvente, ideal para la noche y climas fríos."
+    },
+    {
+      "id": 65,
+      "name": "Perfums F65",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Floral", "Maderoso"],
+      "context": { "highlight": "Fame", "brand": "Paco Rabanne", "type": "Inspiracion" },
+      "description": "Parfums F65 es una fragancia Almizcle Floral Amaderada, inspirada en Fame de Paco Rabanne. Moderna y sofisticada, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 66,
+      "name": "Perfums F66",
+      "genre": "Mujer",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Floral", "Frutal"],
+      "context": { "highlight": "Very Good Girl", "brand": "Carolina Herrera", "type": "Inspiracion" },
+      "description": "Parfums F66 es una fragancia Floral Frutal, inspirada en Very Good Girl de Carolina Herrera. Atrevida y sofisticada, ideal para uso diario y climas cálidos."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+---
+import Layout from '../layouts/Layout.astro'
+import { DYNAMIC_PAGE } from '../utilities/constants/dynamic-pages'
+import DynamicContent from '../components/core/layout/DynamicContent'
+import Navbar from '../components/core/layout/Navbar'
+import Filter from '../components/dynamic-page/layout/Filter'
+import MovilFilter from '../components/dynamic-page/layout/MovilFilter'
+import Footer from '../components/core/layout/Footer'
+
+export const getStaticPaths = () => {
+  return DYNAMIC_PAGE.map(({ category, data }) => {
+    return {
+      params: { category },
+      props: { data, category },
+    }
+  })
+}
+const { data, category } = Astro.props
+const { title, paragraph, items } = data
+---
+
+<Layout>
+  <Navbar client:load />
+  <main class=''>
+    <article style={{ gridArea: 'info' }} class='p-4 flex flex-col items-center'>
+      <h2 class='font-basicaline text-3xl text-black font-bold'>{title}</h2>
+      <p class='text-gray-600'>{paragraph}</p>
+    </article>
+    <MovilFilter data={items} type={category} } client:only />
+
+    <Filter data={items} type={category} client:load />
+    <DynamicContent type={category} client:only />
+  </main>
+  <Footer />
+</Layout>
+
+<style>
+  main {
+    display: grid;
+    grid-template-columns: 250px 1fr 1fr 1fr;
+    grid-template-areas:
+      'info info info info'
+      'aside content content content'
+      'aside content content content'
+      'aside content content content';
+  }
+
+  @media screen and (max-width: 768px) {
+    main {
+      /* grid-template-columns: 1fr 1fr 1fr 1fr; */
+      grid-template-areas:
+        'info info info info'
+        'aside-movil aside-movil aside-movil aside-movil'
+        'content content content content'
+        'content content content content';
+    }
+  }
+</style>

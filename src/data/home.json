@@ -1,0 +1,73 @@
+{
+  "header": {
+    "title": "Bienvenido a Brisa de Paz",
+    "description": "Descubre productos diseñados para resaltar tu belleza natural y brindarte bienestar, desde perfumes y colonias hasta cremas que cuidan y suavizan la piel con elegancia."
+  },
+  "catalogs": [
+    {
+      "title": "Perfumes",
+      "article": true,
+      "items": [
+        {
+          "id": 1,
+          "title": "Perfumes de mujer.",
+          "img": "/Brisa-de-paz/images/home/perfumes-woman.webp",
+          "link": { "href": "/Brisa-de-paz/perfumes-for-women", "text": "Ver Perfumes" }
+        },
+        {
+          "id": 2,
+          "title": "Perfumes de hombre.",
+          "img": "/Brisa-de-paz/images/home/perfumes-men.webp",
+          "link": { "href": "/Brisa-de-paz/perfumes-for-men", "text": "Ver Perfumes" }
+        },
+        {
+          "id": 3,
+          "title": "Perfumes Nichos.",
+          "img": "/Brisa-de-paz/images/home/perfumes-black-red.webp",
+          "link": { "href": "/Brisa-de-paz/niche-perfumes", "text": "Ver Perfumes" }
+        },
+        {
+          "id": 4,
+          "title": "Perfumes Juveniles.",
+          "img": "/Brisa-de-paz/images/home/perfumes-young-people.webp",
+          "link": { "href": "/Brisa-de-paz/perfumes-for-young-people", "text": "Ver Perfumes" },
+          "description": ""
+        }
+      ]
+    },
+    {
+      "title": "Variedad",
+      "article": false,
+      "items": [
+        {
+          "title": "Cremas",
+          "description": "Nuestras cremas de manos están formuladas para hidratar profundamente y proteger tu piel. Con ingredientes nutritivos y fragancias delicadas, son el complemento perfecto para mantener tus manos suaves y cuidadas durante todo el día.",
+          "link": { "href": "/Brisa-de-paz/creams", "text": "Ver Cremas" },
+          "img": "/Brisa-de-paz/images/home/cream-lavit.webp",
+          "background": false
+        },
+        {
+          "title": "Colonias",
+          "description": "Explora nuestra selección de colonias frescas y revitalizantes. Perfectas para el uso diario, nuestras colonias ofrecen una explosión de frescura que te acompañará en cada paso, dejando una impresión duradera.",
+          "link": { "href": "/Brisa-de-paz/cologne", "text": "Ver Colonias" },
+          "img": "/Brisa-de-paz/images/home/colonias-s-400.webp",
+          "background": true
+        },
+        {
+          "title": "Cuidado Personal",
+          "description": "Descubre nuestra gama de productos de cuidado personal diseñados para mimarte de pies a cabeza. Desde lociones corporales hasta geles de ducha, cada producto está formulado para ofrecerte una experiencia sensorial única y un cuidado efectivo.",
+          "link": { "href": "/Brisa-de-paz/personal-care", "text": "Ver Cuidado Personal" },
+          "img": "/Brisa-de-paz/images/home/personal-care.webp",
+          "background": false
+        },
+        {
+          "title": "Aromatizadores",
+          "description": "Crea un ambiente acogedor y refrescante en tu hogar con nuestra selección de ambientadores. Desde aromas florales hasta fragancias cítricas, nuestros ambientadores están diseñados para transformar cualquier espacio en un refugio de tranquilidad y bienestar.",
+          "link": { "href": "/Brisa-de-paz/aromatizadores", "text": "Ver Aromatizadores" },
+          "img": "/Brisa-de-paz/images/home/aromatizador.webp",
+          "background": true
+        }
+      ]
+    }
+  ]
+}

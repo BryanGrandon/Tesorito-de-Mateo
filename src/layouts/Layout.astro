@@ -1,0 +1,29 @@
+---
+import '../styles/global.css'
+import '../styles/custom-css.css'
+---
+
+<!doctype html>
+<html lang='en'>
+  <head>
+    <meta charset='UTF-8' />
+    <meta name='viewport' content='width=device-width' />
+    <link rel='icon' type='image/svg+xml' href='/favicon.svg' />
+    <meta name='generator' content={Astro.generator} />
+    <title>Brisas de paz</title>
+  </head>
+  <body>
+    <slot />
+  </body>
+</html>
+
+<style>
+  html,
+  body {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    /* background: #e0e0e0; */
+    /* background-image: url('https://wallpapers.com/images/hd/blue-marble-1920-x-1080-wallpaper-3jv9mwq6ssf7j9rk.jpg'); */
+  }
+</style>

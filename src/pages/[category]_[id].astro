@@ -1,0 +1,71 @@
+---
+import Layout from '../layouts/Layout.astro'
+import Navbar from '../components/core/layout/Navbar'
+import Gallery from '../components/dynamic-page/layout/Gallery'
+import Description from '../components/dynamic-page/layout/Description'
+import PriceOfPerfumes from '../components/dynamic-page/layout/PriceOfPerfumes'
+import { DYNAMIC_ID } from '../utilities/constants/dynamic-pages'
+import IconNotice from '../components/core/icons/IconNotice'
+import Footer from '../components/core/layout/Footer'
+
+export const getStaticPaths = () => {
+  return DYNAMIC_ID.map(({ category, data, id }) => {
+    return { params: { category, id }, props: { data, category } }
+  })
+}
+const { data, category } = Astro.props
+
+const infoPerfumes = () => {
+  return [
+    { name: 'Genero', value: data?.genre },
+    { name: 'Marca', value: data?.brand },
+    { name: 'Familias Olfativas', value: data.olfactory_families.join(', ') },
+  ]
+}
+
+const infoCreams = () => {
+  return [
+    { name: 'Marca', value: data?.brand },
+    { name: 'Area', value: data.area.join(', ') },
+  ]
+}
+
+const info = category == 'creams' ? infoCreams() : infoPerfumes()
+const { img, productData, description, context, name } = data
+const conditional = context.type == 'Crema' || context.type == 'Gel'
+const title = conditional ? `${name} - ${context.type} ${context.highlight}` : `${name} - ${context.type} en ${context.highlight}`
+---
+
+<Layout>
+  <Navbar client:load />
+  <main class='text-black grid grid-cols-1 lg:grid-cols-2 grid-rows gap-8 p-8 justify-center'>
+    <Gallery client:load imgDefault={img} images={productData} />
+
+    <article class=''>
+      <h2 class='text-3xl font-basicaline font-semibold'>{title}</h2>
+      <p class='text-gray-600'>{data?.context.brand}</p>
+      <PriceOfPerfumes prices={productData} client:load />
+      <Description description={description} info={info} client:load />
+      {
+        category == 'creams' ? (
+          <article class='grid grid-cols-1 lg:grid-cols-2  justify-center gap-4 py-4'>
+            {data.extra.map((el: any) => (
+              <section class='rounded-lg border border-black/40 shadow-md shadow-gray-400 overflow-hidden'>
+                <h3 class='text-lg border-b border-gray-400 py-1 px-4 bg-white/60'>{el.title}</h3>
+                <p class='prose px-4 py-2'>{el.description}</p>
+              </section>
+            ))}
+          </article>
+        ) : null
+      }
+      <section class='my-4 rounded-lg border border-black/40 shadow-md shadow-gray-400 overflow-hidden w-fit'>
+        <h3 class='text-lg border-b border-gray-400 py-1 px-4 flex gap-2 bg-white/60'><IconNotice /> Aviso Legal</h3>
+        <p class='prose px-4 py-2'>
+          Los nombres de perfumes o marcas mencionados se emplean exclusivamente con fines descriptivos, con el propósito de orientar al consumidor en la identificación de perfiles olfativos
+          familiares.
+        </p>
+      </section>
+    </article>
+  </main>
+  <Footer />
+</Layout>

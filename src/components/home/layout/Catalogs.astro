@@ -1,0 +1,41 @@
+---
+import home from '../../../data/home.json'
+import ProductCard from '../ui/ProductCard.astro'
+import CatalogCard from '../ui/CatalogCard.astro'
+
+type catalog_items = {
+  title: string
+  article: boolean
+  items: any[]
+}
+const catalogs: catalog_items[] = home.catalogs
+---
+
+<main>
+  {
+    catalogs.map((el) => (
+      <article class=''>
+        <section class='w-full flex flex-col items-center p-8'>
+          <h2 class='text-4xl font-bold font-basicaline text-black text-center w-full'>{el.title}</h2>
+          <span class='block h-0.5 w-30 bg-secondary rounded-2xl' />
+        </section>
+
+        {el.article == true ? (
+          <article class='max-w-[1300px] mx-auto p-4'>
+            <article class='grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-8'>
+              {el.items?.map((item) => (
+                <ProductCard link={item.link.href} title={item.title} img={item.img} />
+              ))}
+            </article>
+          </article>
+        ) : (
+          <article class='grid grid-cols-1 xl:grid-cols-2 gap-4 py-4 px-8'>
+            {el.items.map((item) => (
+              <CatalogCard title={item.title} description={item.description} link={item.link} img={item.img} />
+            ))}
+          </article>
+        )}
+      </article>
+    ))
+  }
+</main>

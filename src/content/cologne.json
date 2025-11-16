@@ -1,0 +1,297 @@
+{
+  "title": "Colonias - Lavit, S-400",
+  "paragraph": "Descubre las colonias Lavit y S-400: fragancias frescas, modernas e inspiradas en aromas icónicos.",
+  "items": [
+    {
+      "title": "Lavit",
+      "paragraph": "Lavit te trae colonias frescas y modernas inspiradas en aromas icónicos. Fragancias accesibles, vibrantes y perfectas para usar todos los días.",
+      "productData": { "price": "5.400", "size": "210ml", "url": "/Brisa-de-paz/images/product/personal-care/colonias-lavit.webp" },
+      "list": [
+        {
+          "id": 0,
+          "name": "Fruits os Summer",
+          "highlight": "Flor de Sol"
+        },
+        {
+          "id": 1,
+          "name": "Tropical Caribbean",
+          "highlight": "Coconut Passion"
+        },
+        {
+          "id": 2,
+          "name": "Forever Young",
+          "highlight": "Black Raspberry Vanilla"
+        },
+        {
+          "id": 3,
+          "name": "Fresh Garden",
+          "highlight": "Rock In Rio"
+        },
+        {
+          "id": 4,
+          "name": "Fantasy Of Love",
+          "highlight": "Pink Chiffon"
+        },
+        {
+          "id": 5,
+          "name": "Sweet Romance",
+          "highlight": "Sheer Love Body Mist"
+        }
+      ]
+    },
+    {
+      "title": "Fragancias Mujer",
+      "paragraph": "Nuestras Fragancias Mujer están inspiradas en perfumes icónicos que realzan la feminidad, elegancia y estilo de cada mujer.",
+      "productData": { "price": "5.800", "size": "400ml", "url": "/Brisa-de-paz/images/product/personal-care/S400-woman.webp" },
+      "list": [
+        {
+          "id": 0,
+          "name": "Colonia S01",
+          "highlight": "Woman"
+        },
+        {
+          "id": 1,
+          "name": "Colonia S02",
+          "highlight": "Oscar de la reina"
+        },
+        {
+          "id": 2,
+          "name": "Colonia S03",
+          "highlight": "Chanel Nº5"
+        },
+        {
+          "id": 3,
+          "name": "Colonia S04",
+          "highlight": "Tresor"
+        },
+        {
+          "id": 4,
+          "name": "Colonia S05",
+          "highlight": "Carolina Herrera"
+        },
+        {
+          "id": 5,
+          "name": "Colonia S06",
+          "highlight": "212 Heroes Woman"
+        },
+        {
+          "id": 6,
+          "name": "Colonia S07",
+          "highlight": "Anais Anais"
+        },
+        {
+          "id": 7,
+          "name": "Colonia S08",
+          "highlight": "O de Lancome"
+        },
+        {
+          "id": 8,
+          "name": "Colonia S09",
+          "highlight": "212 Carolina Herrera"
+        },
+        {
+          "id": 9,
+          "name": "Colonia S10",
+          "highlight": "Eden"
+        },
+        {
+          "id": 10,
+          "name": "Colonia S11",
+          "highlight": "Can Can"
+        },
+        {
+          "id": 11,
+          "name": "Colonia S12",
+          "highlight": "Olympea"
+        },
+        {
+          "id": 12,
+          "name": "Colonia S13",
+          "highlight": "C.K. One"
+        },
+        {
+          "id": 13,
+          "name": "Colonia S14",
+          "highlight": "Jadore"
+        },
+        {
+          "id": 14,
+          "name": "Colonia S15",
+          "highlight": "Nina"
+        },
+        {
+          "id": 15,
+          "name": "Colonia S16",
+          "highlight": "Ralph"
+        },
+        {
+          "id": 16,
+          "name": "Colonia S17",
+          "highlight": "Be Delicious"
+        },
+        {
+          "id": 17,
+          "name": "Colonia S18",
+          "highlight": "Lolita Lempicka"
+        },
+        {
+          "id": 18,
+          "name": "Colonia S19",
+          "highlight": "La Nuit Tresor"
+        },
+        {
+          "id": 19,
+          "name": "Colonia S20",
+          "highlight": "Tommy Girl"
+        },
+        {
+          "id": 20,
+          "name": "Colonia S21",
+          "highlight": "212 Vip"
+        },
+        {
+          "id": 21,
+          "name": "Colonia S22",
+          "highlight": "Amor Amor"
+        },
+        {
+          "id": 22,
+          "name": "Colonia S23",
+          "highlight": "Halloween"
+        },
+        {
+          "id": 23,
+          "name": "Colonia S24",
+          "highlight": "212 Sexy"
+        },
+        {
+          "id": 24,
+          "name": "Colonia S25",
+          "highlight": "Light Blue Woman"
+        },
+        {
+          "id": 25,
+          "name": "Colonia S26",
+          "highlight": "Acqua di Gioia"
+        },
+        {
+          "id": 26,
+          "name": "Colonia S27",
+          "highlight": "La vida en bella"
+        },
+        {
+          "id": 27,
+          "name": "Colonia S28",
+          "highlight": "Good Girl"
+        },
+        {
+          "id": 28,
+          "name": "Colonia S29",
+          "highlight": "My way (G. Armani)"
+        },
+        {
+          "id": 29,
+          "name": "Colonia S30",
+          "highlight": "212 Vip Rose"
+        }
+      ]
+    },
+    {
+      "title": "Fragancias Hombre",
+      "paragraph": "Nuestras Fragancias Hombre se inspiran en perfumes icónicos que combinan frescura, elegancia y carácter.",
+      "productData": { "price": "5.800", "size": "400ml", "url": "/Brisa-de-paz/images/product/personal-care/S400-men.webp" },
+      "list": [
+        {
+          "id": 0,
+          "name": "Colonia S100",
+          "highlight": "Phantom"
+        },
+        {
+          "id": 1,
+          "name": "Colonia S101",
+          "highlight": "Azzaro"
+        },
+        {
+          "id": 2,
+          "name": "Colonia S102",
+          "highlight": "Sauvage"
+        },
+        {
+          "id": 3,
+          "name": "Colonia S103",
+          "highlight": "Tommy"
+        },
+        {
+          "id": 4,
+          "name": "Colonia S104",
+          "highlight": "Paco Rabannie"
+        },
+        {
+          "id": 5,
+          "name": "Colonia S105",
+          "highlight": "Carolina Herrera"
+        },
+        {
+          "id": 6,
+          "name": "Colonia S106",
+          "highlight": "Agua Brava"
+        },
+        {
+          "id": 7,
+          "name": "Colonia S107",
+          "highlight": "One Million"
+        },
+        {
+          "id": 8,
+          "name": "Colonia S108",
+          "highlight": "Hugo Boss Men"
+        },
+        {
+          "id": 9,
+          "name": "Colonia S109",
+          "highlight": "Polo Sport"
+        },
+        {
+          "id": 10,
+          "name": "Colonia S110",
+          "highlight": "212 Vip Men"
+        },
+        {
+          "id": 11,
+          "name": "Colonia S111",
+          "highlight": "XS Black Men"
+        },
+        {
+          "id": 12,
+          "name": "Colonia S112",
+          "highlight": "Acqua di Gio"
+        },
+        {
+          "id": 13,
+          "name": "Colonia S113",
+          "highlight": "212 For men"
+        },
+        {
+          "id": 14,
+          "name": "Colonia S114",
+          "highlight": "Invictus"
+        },
+        {
+          "id": 15,
+          "name": "Colonia S115",
+          "highlight": "Polo Blue Men"
+        },
+        {
+          "id": 16,
+          "name": "Colonia S116",
+          "highlight": "Polo Red"
+        },
+        {
+          "id": 17,
+          "name": "Colonia S117",
+          "highlight": "Bad Boy"
+        }
+      ]
+    }
+  ]
+}

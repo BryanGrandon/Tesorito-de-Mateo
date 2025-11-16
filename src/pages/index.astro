@@ -1,0 +1,14 @@
+---
+import Layout from '../layouts/Layout.astro'
+import Catalogs from '../components/home/layout/Catalogs.astro'
+import Navbar from '../components/core/layout/Navbar.tsx'
+import Footer from '../components/core/layout/Footer'
+---
+
+<Layout>
+  <article class=''>
+    <Navbar client:load />
+    <Catalogs />
+    <Footer />
+  </article>
+</Layout>

@@ -1,0 +1,53 @@
+---
+import ButtonLink from '../../core/ui/ButtonLink'
+
+type catalog_card = {
+  title: string
+  description: string
+  link: {
+    href: string
+    text: string
+  }
+  img: string
+}
+
+const { title, description, link, img } = Astro.props as catalog_card
+---
+
+<article class='bg-white/30 rounded-xl p-4 shadow-black/30 shadow-lg'>
+  <h2 style={{ gridArea: 'title' }}>
+    <span class='text-3xl font-bold font-basicaline text-black'>{title}</span>
+    <sup class='block h-0.5 w-20 bg-secondary rounded-2xl'></sup>
+  </h2>
+  <p class='prose' style={{ gridArea: 'desc' }}>{description}</p>
+
+  <picture style={{ gridArea: 'img' }} class='flex justify-center items-center h-60 md:h-auto md:max-h-45 xl:max-w-[225px] overflow-hidden rounded-lg shadow shadow-black/50'>
+    <img src={img} alt={`${title}-img`} class='object-cover object-center w-full h-full' />
+  </picture>
+
+  <div style={{ gridArea: 'button' }}>
+    <ButtonLink link={link.href} text={link.text} moreClass='w-full' client:load />
+  </div>
+</article>
+
+<style>
+  article {
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: 1fr 1fr 225px;
+    grid-template-areas:
+      'title title  title'
+      'desc desc img'
+      'desc desc button';
+  }
+
+  @media screen and (max-width: 770px) {
+    article {
+      grid-template-areas:
+        'title title title'
+        'img img img'
+        'desc desc desc'
+        'button button button';
+    }
+  }
+</style>

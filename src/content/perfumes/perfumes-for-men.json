@@ -1,0 +1,402 @@
+{
+  "title": "Perfumes Hombre - Parfums d' Parfums",
+  "paragraph": "Perfumes para hombre de Parfums d' Parfums: fragancias elegantes y duraderas para quienes valoran el estilo y la distinción.",
+  "items": [
+    {
+      "id": 1,
+      "name": "Perfums H01",
+      "genre": "Hombre",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Fougère", "Fresco"],
+      "context": { "highlight": "Drakkar Noir", "brand": "Guy Laroche", "type": "Inspiracion" },
+      "description": "Parfums H01 es una fragancia Aromática Fougère, clásica y seductora, inspirada en Drakkar Noir, ideal para uso diario y climas fríos."
+    },
+    {
+      "id": 2,
+      "name": "Perfums H02",
+      "genre": "Hombre",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Fougère", "Aromático"],
+      "context": { "highlight": "Azzaro Pour Homme", "brand": "Azzaro", "type": "Inspiracion" },
+      "description": "Parfums H02 es una fragancia Aromática Fougère, elegante y atemporal, inspirada en Azzaro Pour Homme, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 3,
+      "name": "Perfums H03",
+      "genre": "Hombre",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Chypre", "Aromático"],
+      "context": { "highlight": "Quorum", "brand": "Puig", "type": "Inspiracion" },
+      "description": "Parfums H03 es una fragancia Amaderada Aromática, intensa y clásica, inspirada en Quorum de Antonio Puig, ideal para uso diario y climas frescos."
+    },
+    {
+      "id": 4,
+      "name": "Perfums H04",
+      "genre": "Hombre",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Fougère", "Aromático"],
+      "context": { "highlight": "Paco Rabanne", "brand": "Paco Rabanne", "type": "Inspiracion" },
+      "description": "Parfums H04 es una fragancia Aromática Fougère, refinada y clásica, inspirada en Paco Rabanne Pour Homme, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 5,
+      "name": "Perfums H05",
+      "genre": "Hombre",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Maderoso", "Aromático"],
+      "context": { "highlight": "Invictus Platium (P. Rabanne)", "brand": "Paco Rabanne", "type": "Inspiracion" },
+      "description": "Parfums H05 es una fragancia Amaderada Aromática, moderna y energizante, inspirada en Invictus Platinum, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 6,
+      "name": "Perfums H06",
+      "genre": "Hombre",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Maderoso", "Frutal"],
+      "context": { "highlight": "Polo Blue", "brand": "Ralph Lauren", "type": "Inspiracion" },
+      "description": "Parfums H06 es una fragancia Aromática Fougère, fresca y moderna, inspirada en Polo Blue de Ralph Lauren, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 7,
+      "name": "Perfums H07",
+      "genre": "Hombre",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Fougère", "Frutal"],
+      "context": { "highlight": "212 Heròes Men", "brand": "Carolina Herrera", "type": "Inspiracion" },
+      "description": "Parfums H07 es una fragancia Aromática Frutal, audaz y vibrante, inspirada en 212 Heroes de Carolina Herrera, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 8,
+      "name": "Perfums H08",
+      "genre": "Hombre",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Maderoso", "Aromático"],
+      "context": { "highlight": "Armani Code Sport", "brand": "Giorgio Armani", "type": "Inspiracion" },
+      "description": "Parfums H08 es una fragancia Cítrica Aromática, refrescante y enérgica, inspirada en Armani Code Sport, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 9,
+      "name": "Perfums H09",
+      "genre": "Hombre",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Maderoso", "Aromático"],
+      "context": { "highlight": "Tommy", "brand": "Tommy Hilfiger", "type": "Inspiracion" },
+      "description": "Parfums H09 es una fragancia Cítrica Aromática, fresca y vibrante, inspirada en Tommy de Tommy Hilfiger, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 10,
+      "name": "Perfums H10",
+      "genre": "Hombre",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Maderoso", "Aromático"],
+      "context": { "highlight": "Carolina Herrera", "brand": "Carolina Herrera", "type": "Inspiracion" },
+      "description": "Parfums H10 es una fragancia Almizcle Amaderado Floral, elegante y clásica, inspirada en Carolina Herrera For Men, ideal para uso nocturno y climas fríos."
+    },
+    {
+      "id": 11,
+      "name": "Perfums H11",
+      "genre": "Hombre",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Fougère", "Aromático"],
+      "context": { "highlight": "Agua Brava", "brand": "Puig", "type": "Inspiracion" },
+      "description": "Parfums H11 es una fragancia Amaderada Chipre, fresca y elegante, inspirada en Agua Brava, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 12,
+      "name": "Perfums H12",
+      "genre": "Hombre",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Chypre", "Maderoso"],
+      "context": { "highlight": "Ted Lapidus Pour Homme", "brand": "Ted Lapidus", "type": "Inspiracion" },
+      "description": "Parfums H12 es una fragancia Oriental, intensa y elegante, inspirada en Lapidus Pour Homme, ideal para ocasiones especiales y climas fríos."
+    },
+    {
+      "id": 13,
+      "name": "Perfums H13",
+      "genre": "Hombre",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Fougère", "Aromático"],
+      "context": { "highlight": "Polo Sport", "brand": "Ralph Lauren", "type": "Inspiracion" },
+      "description": "Parfums H13 es una fragancia Aromática Verde, energética y fresca, inspirada en Polo Sport de Ralph Lauren, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 14,
+      "name": "Perfums H14",
+      "genre": "Hombre",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Maderoso", "Verde"],
+      "context": { "highlight": "212 For Men", "brand": "Carolina Herrera", "type": "Inspiracion" },
+      "description": "Parfums H14 es una fragancia Almizcle Amaderado Floral, moderna y vibrante, inspirada en 212 Men de Carolina Herrera, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 15,
+      "name": "Perfums H15",
+      "genre": "Hombre",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Fougère", "Aromático"],
+      "context": { "highlight": "Sauvage Elixir (C. Doir)", "brand": "Christian Doir", "type": "Inspiracion" },
+      "description": "Parfums H15 es una fragancia Aromática, intensa y sofisticada, inspirada en Sauvage Elixir de Dior, ideal para uso nocturno y climas fríos."
+    },
+    {
+      "id": 16,
+      "name": "Perfums H16",
+      "genre": "Hombre",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Fougère", "Maderoso"],
+      "context": { "highlight": "XS", "brand": "Paco Rabanne", "type": "Inspiracion" },
+      "description": "Parfums H16 es una fragancia Amaderada Aromática, fresca y energética, inspirada en XS de Paco Rabanne, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 17,
+      "name": "Perfums H17",
+      "genre": "Hombre",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Oriental", "Frutal"],
+      "context": { "highlight": "Burberry Hero", "brand": "Burberry", "type": "Inspiracion" },
+      "description": "Parfums H17 es una fragancia Amaderada Especiada, audaz y vibrante, inspirada en Burberry Hero, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 18,
+      "name": "Perfums H18",
+      "genre": "Hombre",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Fougère", "Maderoso"],
+      "context": { "highlight": "Sauvage", "brand": "Christian Doir", "type": "Inspiracion" },
+      "description": "Parfums H18 es una fragancia Aromática Fougère, fresca y versátil, inspirada en Sauvage de Dior, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 19,
+      "name": "Perfums H19",
+      "genre": "Hombre",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Maderoso", "Floral"],
+      "context": { "highlight": "Fahrenheit", "brand": "Christian Doir", "type": "Inspiracion" },
+      "description": "Parfums H19 es una fragancia Aromática Fougère, intensa y distintiva, inspirada en Fahrenheit de Dior, ideal para uso nocturno y climas fríos."
+    },
+    {
+      "id": 20,
+      "name": "Perfums H20",
+      "genre": "Hombre",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Citrico", "Amaderado"],
+      "context": { "highlight": "Acqua D' Gio Profondo", "brand": "Giorgio Armani", "type": "Inspiracion" },
+      "description": "Parfums H20 es una fragancia Aromática Fougère, fresca y audaz, inspirada en Acqua di Giò Profondo, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 21,
+      "name": "Perfums H21",
+      "genre": "Hombre",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Maderoso", "Aromático"],
+      "context": { "highlight": "Elements", "brand": "Hugo Boss", "type": "Inspiracion" },
+      "description": "Parfums H21 es una fragancia Aromática Especiada, elegante y sofisticada, inspirada en Hugo Boss Elements, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 22,
+      "name": "Perfums H22",
+      "genre": "Hombre",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Maderoso", "Citrico"],
+      "context": { "highlight": "Acqua Di Gio Pour Homme", "brand": "Giorgio Armani", "type": "Inspiracion" },
+      "description": "Parfums H22 es una fragancia Aromática Acuática, fresca y versátil, inspirada en Acqua di Giò, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 23,
+      "name": "Perfums H23",
+      "genre": "Hombre",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Oriental", "Maderoso"],
+      "context": { "highlight": "Halloween Man", "brand": "Jesus del Pozo", "type": "Inspiracion" },
+      "description": "Parfums H23 es una fragancia Oriental Amaderada, atractiva y moderna, inspirada en Halloween Man, ideal para uso nocturno y climas fríos."
+    },
+    {
+      "id": 24,
+      "name": "Perfums H24",
+      "genre": "Hombre",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Oriental", "Maderoso"],
+      "context": { "highlight": "Boss", "brand": "Hugo Boss", "type": "Inspiracion" },
+      "description": "Parfums H24 es una fragancia Amaderada Especiada, sofisticada y cálida, inspirada en Boss Bottled, ideal para uso diario y climas fríos."
+    },
+    {
+      "id": 25,
+      "name": "Perfums H25",
+      "genre": "Hombre",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Oriental", "Maderoso"],
+      "context": { "highlight": "212 Vip Men", "brand": "Carolina Herrera", "type": "Inspiracion" },
+      "description": "Parfums H25 es una fragancia Oriental Amaderada, moderna y vibrante, inspirada en 212 VIP Men, ideal para uso nocturno y climas cálidos."
+    },
+    {
+      "id": 26,
+      "name": "Perfums H26",
+      "genre": "Hombre",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Citrico", "Fresco"],
+      "context": { "highlight": "C.K. One", "brand": "Calvin Klein", "type": "Inspiracion" },
+      "description": "Parfums H26 es una fragancia Cítrica Aromática, fresca y versátil, inspirada en CK One, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 27,
+      "name": "Perfums H27",
+      "genre": "Hombre",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Maderoso", "Frutal"],
+      "context": { "highlight": "XS Black Men", "brand": "Paco Rabanne", "type": "Inspiracion" },
+      "description": "Parfums H27 es una fragancia Amaderada Especiada, activa y dinámica, inspirada en XS Black Men, con un corazón cálido y un fondo intenso de maderas y ámbar."
+    },
+    {
+      "id": 28,
+      "name": "Perfums H28",
+      "genre": "Hombre",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Oriental", "Maderoso"],
+      "context": { "highlight": "Eros", "brand": "Versace", "type": "Inspiracion" },
+      "description": "Parfums H28 es una fragancia Aromática Fougère, fresca y vibrante, inspirada en Eros de Versace, ideal para uso nocturno y climas cálidos."
+    },
+    {
+      "id": 29,
+      "name": "Perfums H29",
+      "genre": "Hombre",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Oriental", "Frutal"],
+      "context": { "highlight": "One Millon Intense", "brand": "Paco Rabanne", "type": "Inspiracion" },
+      "description": "Parfums H29 es una fragancia Oriental Amaderada, seductora y sensual, inspirada en One Million Intense, con un fondo cálido de cuero y maderas."
+    },
+    {
+      "id": 30,
+      "name": "Perfums H30",
+      "genre": "Hombre",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Maderoso", "Aromático"],
+      "context": { "highlight": "Light Blue Men", "brand": "Dolce & Gabbana", "type": "Inspiracion" },
+      "description": "Parfums H30 es una fragancia Cítrica Aromática, fresca y energizante, inspirada en Light Blue, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 31,
+      "name": "Perfums H31",
+      "genre": "Hombre",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Fougère", "Maderoso"],
+      "context": { "highlight": "Polo Black", "brand": "Ralph Lauren", "type": "Inspiracion" },
+      "description": "Parfums H31 es una fragancia Amaderada Aromática, sofisticada y moderna, inspirada en Polo Black, ideal para uso nocturno y climas fríos."
+    },
+    {
+      "id": 32,
+      "name": "Perfums H32",
+      "genre": "Hombre",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Fougère", "Maderoso"],
+      "context": { "highlight": "Y Edt (Y.S.L.)", "brand": "Yves Saint Laurent", "type": "Inspiracion" },
+      "description": "Parfums H32 es una fragancia Aromática Fougère, fresca y moderna, inspirada en Y de Yves Saint Laurent, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 33,
+      "name": "Perfums H33",
+      "genre": "Hombre",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Fougère", "Oriental"],
+      "context": { "highlight": "Le Beu (J.P. Gaultier)", "brand": "Jean Paul Gaultier", "type": "Inspiracion" },
+      "description": "Parfums H33 es una fragancia Amaderada Aromática, fresca y seductora, inspirada en Le Beau de Jean Paul Gaultier, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 34,
+      "name": "Perfums H34",
+      "genre": "Hombre",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Maderoso", "Frutal"],
+      "context": { "highlight": "One Millon", "brand": "Paco Rabanne", "type": "Inspiracion" },
+      "description": "Parfums H34 es una fragancia Oriental Amaderada, activa y dinámica, inspirada en One Million, con un corazón especiado y un fondo cálido de cuero, maderas y ámbar."
+    },
+    {
+      "id": 35,
+      "name": "Perfums H35",
+      "genre": "Hombre",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Amaderado", "Frutal"],
+      "context": { "highlight": "Myslf (Y.S.L.)", "brand": "Yves Saint Laurent", "type": "Inspiracion" },
+      "description": "Parfums H35 es una fragancia Aromática, fresca y versátil, inspirada en MYSLF de Yves Saint Laurent, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 36,
+      "name": "Perfums H36",
+      "genre": "Hombre",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Fougère", "Oriental"],
+      "context": { "highlight": "Invictus", "brand": "Paco Rabanne", "type": "Inspiracion" },
+      "description": "Parfums H36 es una fragancia Amaderada Acuática, fresca y energizante, inspirada en Invictus de Paco Rabanne, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 37,
+      "name": "Perfums H37",
+      "genre": "Hombre",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Maderoso", "Citrico"],
+      "context": { "highlight": "Acqua Di Gio Absolu", "brand": "Giorgio Armani", "type": "Inspiracion" },
+      "description": "Parfums H37 es una fragancia Amaderada Aromática, fresca y sofisticada, inspirada en Acqua di Giò Absolu, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 38,
+      "name": "Perfums H38",
+      "genre": "Hombre",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Fougère", "Oriental"],
+      "context": { "highlight": "Polo Red", "brand": "Ralph Lauren", "type": "Inspiracion" },
+      "description": "Parfums H38 es una fragancia Amaderada Especiada, vibrante y enérgica, inspirada en Polo Red de Ralph Lauren, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 39,
+      "name": "Perfums H39",
+      "genre": "Hombre",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Oriental", "Frutal"],
+      "context": { "highlight": "Gucci Guilty", "brand": "Gucci", "type": "Inspiracion" },
+      "description": "Parfums H39 es una fragancia Amaderada Aromática, fresca y sofisticada, inspirada en Gucci Guilty, ideal para uso nocturno y climas cálidos."
+    },
+    {
+      "id": 40,
+      "name": "Perfums H40",
+      "genre": "Hombre",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Fougère", "Oriental"],
+      "context": { "highlight": "212 Vip Black", "brand": "Carolina Herrera", "type": "Inspiracion" },
+      "description": "Parfums H40 es una fragancia Aromática Fougère, intensa y sofisticada, inspirada en 212 VIP Black, ideal para uso nocturno y climas fríos."
+    },
+    {
+      "id": 41,
+      "name": "Perfums H41",
+      "genre": "Hombre",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Maderoso", "Citrico"],
+      "context": { "highlight": "Bleu (Chanel)", "brand": "Chanel", "type": "Inspiracion" },
+      "description": "Parfums H41 es una fragancia Amaderada Aromática, sofisticada y versátil, inspirada en Bleu de Chanel, ideal para uso diario y climas cálidos."
+    },
+    {
+      "id": 42,
+      "name": "Perfums H42",
+      "genre": "Hombre",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Fougère", "Especiado"],
+      "context": { "highlight": "Pure XS", "brand": "Paco Rabanne", "type": "Inspiracion" },
+      "description": "Parfums H42 es una fragancia Aromática Especiada, intensa y seductora, inspirada en Pure XS de Paco Rabanne, ideal para uso nocturno y climas fríos."
+    },
+    {
+      "id": 43,
+      "name": "Perfums H43",
+      "genre": "Hombre",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Oriental", "Especiado"],
+      "context": { "highlight": "Bad Boy", "brand": "Carolina Herrera", "type": "Inspiracion" },
+      "description": "Parfums H43 es una fragancia Oriental Especiada, audaz y sofisticada, inspirada en Bad Boy de Carolina Herrera, ideal para uso nocturno y climas fríos."
+    },
+    {
+      "id": 44,
+      "name": "Perfums H44",
+      "genre": "Hombre",
+      "brand": "perfums d'perfums",
+      "olfactory_families": ["Fougère", "Aromático"],
+      "context": { "highlight": "Phantom", "brand": "Paco Rabanne", "type": "Inspiracion" },
+      "description": "Parfums H44 es una fragancia Amaderada Aromática, fresca y moderna, inspirada en Phantom de Paco Rabanne, ideal para uso diario y climas cálidos."
+    }
+  ]
+}
