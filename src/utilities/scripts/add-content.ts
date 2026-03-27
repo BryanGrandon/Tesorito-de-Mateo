@@ -10,13 +10,13 @@ const addImageDefault = (type: string) => {
 const addPriceSizeImg = (type: string) => {
   if (type == 'F' || type == 'H') {
     return [
-      { size: '100ml', price: '15.000', url: type == 'F' ? PERFUMES_IMG.women['100ml'] : PERFUMES_IMG.men['100ml'] },
-      { size: '50ml', price: '10.000', url: type == 'F' ? PERFUMES_IMG.women['50ml'] : PERFUMES_IMG.men['50ml'] },
-      { size: '20ml', price: '5.000', url: type == 'F' ? PERFUMES_IMG.women['20ml'] : PERFUMES_IMG.men['20ml'] },
+      { size: '100ml', price: '17.000', url: type == 'F' ? PERFUMES_IMG.women['100ml'] : PERFUMES_IMG.men['100ml'] },
+      { size: '50ml', price: '11.000', url: type == 'F' ? PERFUMES_IMG.women['50ml'] : PERFUMES_IMG.men['50ml'] },
+      { size: '20ml', price: '7.000', url: type == 'F' ? PERFUMES_IMG.women['20ml'] : PERFUMES_IMG.men['20ml'] },
     ]
   }
   if (type == 'QR' || type == 'QB') {
-    return [{ size: '100ml', price: '25.000', url: type == 'QR' ? PERFUMES_IMG.niche.red['100ml'] : PERFUMES_IMG.niche.black['100ml'] }]
+    return [{ size: '100ml', price: '26.000', url: type == 'QR' ? PERFUMES_IMG.niche.red['100ml'] : PERFUMES_IMG.niche.black['100ml'] }]
   }
 }
 

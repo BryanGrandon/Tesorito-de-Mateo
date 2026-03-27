@@ -24,7 +24,7 @@ const addMoreInfo = ({ items, type, option }: add_more_info) => {
           el.productData = isRed ? addPriceSizeImg('QR') : addPriceSizeImg('QB')
           break
         case 'J':
-          el.productData = addPriceSize({ arr: el.productData, size: '50ml', price: '6.700' })
+          el.productData = addPriceSize({ arr: el.productData, size: '50ml', price: '8.000' })
           break
       }
     })
