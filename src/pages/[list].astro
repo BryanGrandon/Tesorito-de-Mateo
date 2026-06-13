@@ -29,13 +29,17 @@ const { title, paragraph, items } = data
           <section class='p-4 rounded-lg shadow shadow-black/50 bg-white/40 flex flex-col gap-4'>
             <section class='flex justify-between gap-4 '>
               <div class='flex flex-col gap-4'>
-                <h3 class='font-basicaline text-2xl font-semibold'>{el.title}</h3>
+                <h3 class='text-2xl font-semibold'>{el.title}</h3>
                 <div class='flex flex-col md:flex-row gap-1 md:gap-4 px-4'>
-                  <p>Presio: ${el.productData.price}</p>
-                  <p>Tamano: {el.productData.size}</p>
+                  <p>Precio: ${el.productData.price}</p>
+                  <p>Tamaño: {el.productData.size}</p>
                 </div>
               </div>
-              <img src={el.productData.url} alt={`img-${title}`} class='rounded-lg h-25 md:h-20 object-contain shadow shadow-black/30' />
+              <img
+                src={el.productData.url}
+                alt={`img-${title}`}
+                class='rounded-lg h-25 md:h-20 object-contain shadow shadow-black/30'
+              />
             </section>
             <p class='prose'>{el.paragraph}</p>
 
@@ -49,7 +53,9 @@ const { title, paragraph, items } = data
                       {el?.highlight && el.highlight.length > 0 ? (
                         <abbr title={el?.highlight} class='no-underline overflow-hidden '>
                           <sub class='text-gray-600'>inspiration</sub>
-                          <h3 class='px-4 overflow-hidden w-auto text-ellipsis whitespace-nowrap cursor-pointer'>{el?.highlight}</h3>
+                          <h3 class='px-4 overflow-hidden w-auto text-ellipsis whitespace-nowrap cursor-pointer'>
+                            {el?.highlight}
+                          </h3>
                         </abbr>
                       ) : null}
                     </div>

@@ -33,7 +33,9 @@ const infoCreams = () => {
 const info = category == 'creams' ? infoCreams() : infoPerfumes()
 const { img, productData, description, context, name } = data
 const conditional = context.type == 'Crema' || context.type == 'Gel'
-const title = conditional ? `${name} - ${context.type} ${context.highlight}` : `${name} - ${context.type} en ${context.highlight}`
+const title = conditional
+  ? `${name} - ${context.type} ${context.highlight}`
+  : `${name} - ${context.type} en ${context.highlight}`
 ---
 
 <Layout>
@@ -42,7 +44,7 @@ const title = conditional ? `${name} - ${context.type} ${context.highlight}` : `
     <Gallery client:load imgDefault={img} images={productData} />
 
     <article class=''>
-      <h2 class='text-3xl font-basicaline font-semibold'>{title}</h2>
+      <h2 class='text-3xl font-semibold'>{title}</h2>
       <p class='text-gray-600'>{data?.context.brand}</p>
       <PriceOfPerfumes prices={productData} client:load />
       <Description description={description} info={info} client:load />
@@ -61,8 +63,8 @@ const title = conditional ? `${name} - ${context.type} ${context.highlight}` : `
       <section class='my-4 rounded-lg border border-black/40 shadow-md shadow-gray-400 overflow-hidden w-fit'>
         <h3 class='text-lg border-b border-gray-400 py-1 px-4 flex gap-2 bg-white/60'><IconNotice /> Aviso Legal</h3>
         <p class='prose px-4 py-2'>
-          Los nombres de perfumes o marcas mencionados se emplean exclusivamente con fines descriptivos, con el propósito de orientar al consumidor en la identificación de perfiles olfativos
-          familiares.
+          Los nombres de perfumes o marcas mencionados se emplean exclusivamente con fines descriptivos, con el
+          propósito de orientar al consumidor en la identificación de perfiles olfativos familiares.
         </p>
       </section>
     </article>
